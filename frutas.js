@@ -1,7 +1,7 @@
-const frutas =['banana','manzana','pera','mango','banana'];
+const frutas = ['platano', 'manzana', 'platano', 'pera'];
 const dinero = 1000;
 
 module.exports = {
     frutas: frutas,
-    dinero: dinero
+    dinero
 }
